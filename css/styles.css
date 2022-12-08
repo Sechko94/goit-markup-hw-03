@@ -56,7 +56,7 @@ span {
 .site-nav {
   display: flex;
   margin-left: 77px;
-  gap: 24px;
+  gap: 40px;
 }
 
 .link {
